@@ -23,5 +23,3 @@ else
    (exist('D1xb') == 1)&(exist('D1xc') == 1)&(exist('D1xf') == 1)&(exist('D1xx') == 1)
 end
 end
-
-    
